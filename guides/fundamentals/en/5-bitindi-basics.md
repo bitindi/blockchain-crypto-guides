@@ -22,7 +22,8 @@ Below we will go through some important points to keep in mind when using non-cu
 
 Every non-custodial wallet starts either with the process of a wallet setup or migration of the existing wallet.
 
-![portrait](../images/05-02-s.png)
+![nft](https://user-images.githubusercontent.com/91164084/192649536-258265dc-17a3-49b0-bd4d-ce381b6f17ad.gif)
+
 
 - The 'Create Wallet' button generates a new private key and shows it in a form of 12 words which needs to be backed up.
 
