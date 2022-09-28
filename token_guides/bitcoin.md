@@ -225,7 +225,7 @@ When you're ready to get involved with the Bitcoin on a practical level you're w
 2. [Wallet Basics](/fundamentals/2-wallets-basics.md)
 3. [Private Keys Explained](/fundamentals/3-private-keys-basics.md)
 4. [Safe Storage Tips](/fundamentals/4-safe-storage-basics.md)
-5. [Unstoppable Wallet](/fundamentals/5-unstoppable-basics.md)
+5. [Bitindi Wallet](/fundamentals/5-bitindi-basics.md)
 6. [Buying Cryptocurrency](/fundamentals/6-buying-cryptocurrency-basics.md)
 7. [Spending Cryptocurrency](/fundamentals/7-spending-cryptocurrency.md)
 8. [Transactions Explained](/fundamentals/8-transactions-basics.md)
