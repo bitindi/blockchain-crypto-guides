@@ -114,7 +114,7 @@ At this point, there are slightly over a million of MKR tokens in circulation. T
 
 MKR tokens can be bought and sold on [cryptocurrency exchanges](/fundamentals/6-buying-cryptocurrency-basics.md) just like Bitcoin or Ethereum. The price of the MKR token is determined by the open market forces.
 
-Just like the DAI, the MKR token is an Ethereum based token and can be stored in pretty much any [non-custodial wallet](/fundamentals/2-wallets-basics.md) like Unstoppable, [https://unstoppable.money](https://unstoppable.money).
+Just like the DAI, the MKR token is an Ethereum based token and can be stored in pretty much any [non-custodial wallet](/fundamentals/2-wallets-basics.md) like Bitindi, [https://wallet.bitindi.com](https://wallet.bitindi.com).
 
 ### 1.4 Key Players
 
