@@ -18,7 +18,7 @@ Tether tokens are primarily used by cryptocurrency traders to avoid volatility b
 
 ![landscape](https://raw.githubusercontent.com/horizontalsystems/blockchain-crypto-guides/master/token_guides/images/usdt-Exchange-l.png)
 
-For individuals Tether opens up ways for anyone to store assets in USD equivalent on exchanges or ([non-custodial wallet](/fundamentals/2-wallets-basics.md) like Unstoppable) without the need to have a bank account.
+For individuals Tether opens up ways for anyone to store assets in USD equivalent on exchanges or ([non-custodial wallet](/fundamentals/2-wallets-basics.md) like Bitindi) without the need to have a bank account.
 
 For cryptocurrency exchanges Tether provides means to enable cryptocurrency-to-fiat trading without using legacy banking and payment providers which are currently heavily regulated and just plain slow. 
 
@@ -26,7 +26,7 @@ For cryptocurrency exchanges Tether provides means to enable cryptocurrency-to-f
 
 Tether tokens in circulation exist as cryptocurrency tokens (primarily on Ethereum blockchain). Being a token on Ethereum blockchain, Tether adopts some benefits of Ethereum-based cryptocurrency allowing parties to transact with each other pseudo anonymously. 
 
-Any individual accepting Tether tokens as payment may potentially do so without knowing the identity of the sender. The sender only needs a [crypto wallet](https://unstoppable.money) that supports sending and receiving of Tether tokens.
+Any individual accepting Tether tokens as payment may potentially do so without knowing the identity of the sender. The sender only needs a [crypto wallet](https://wallet.bitindi.com) that supports sending and receiving of Tether tokens.
 
 Tether tokens may be purchased directly from the [Tether’s website](https://tether.to) or on [cryptocurrency exchanges](/fundamentals/6-buying-cryptocurrency-basics.md) using fiat money (USD, EUR etc) or other cryptocurrency like Bitcoin. In the same manner, users may redeem Tether tokens into fiat currency by selling them on crypto exchanges or via Tether's website. 
 
