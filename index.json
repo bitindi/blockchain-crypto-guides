@@ -142,31 +142,31 @@
           "title": "Bitindi Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/en/5-bitindi-basics.md",
-          "updated_at": "2022-06-01"
+          "updated_at": "2020-06-01"
         },
         "ru": {
           "title": "Bitindi Кошелек",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/ru/5-bitindi-basics.md",
-          "updated_at": "2022-06-01"
+          "updated_at": "2020-06-01"
         },
         "fr": {
           "title": "Intro Bitindi",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/fr/5-bitindi-basics.md",
-          "updated_at": "2022-06-01"
+          "updated_at": "2020-06-01"
         },
         "de": {
           "title": "Bitindi Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/de/5-bitindi-basics.md",
-          "updated_at": "2022-06-01"
+          "updated_at": "2020-06-01"
         },
         "fa": {
           "title": "Bitindi Intro",
           "image": "guides/fundamentals/images/05-main-l.png",
           "file": "guides/fundamentals/fa/5-bitindi-basics.md",
-          "updated_at": "2022-06-01"
+          "updated_at": "2020-06-01"
         }
       },
       {
@@ -307,8 +307,7 @@
           "image": "guides/token_guides/images/Zcash-Main-l.png",
           "file": "guides/token_guides/en/zcash.md",
           "updated_at": "2020-11-15"
-        } 
-       
+        }
       }
     ]
   },
