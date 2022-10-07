@@ -309,15 +309,7 @@
           "updated_at": "2020-11-15"
         } 
        
-      },
-        {
-        "en": {
-          "title": "Smart Contract Explained",
-          "image": "guides/fundamentals/images/01-main-l.png",
-          "file": "guides/fundamentals/en/10-smart-contract.md",
-          "updated_at": "2022-10-01"
-        }
-          }
+      }
     ]
   },
   {
